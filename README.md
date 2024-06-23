@@ -1,2 +1,2 @@
 # MIE_DA
-서울시립대학교 데이터분석기초 기말대체 과제
+University of Seoul 2024/1 Data_Analysis Final Project
