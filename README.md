@@ -30,25 +30,25 @@ The first part of the project uses the `mpg` dataset to explore how different ca
 - Engine displacement and the number of cylinders are negatively correlated with fuel efficiency.
 - Cars with front-wheel drive generally have better fuel efficiency than all-wheel-drive cars.
 
-<figure style="text-align:center">
-    <img src="https://github.com/user-attachments/assets/61d6d758-87d6-459c-9f60-0076da7d4ec3" alt="Correlation Heatmap" style="display: block; margin: auto;" />
-    <figcaption>Figure 1: Correlation Heatmap showing relationships between various features in the MPG dataset.</figcaption>
-</figure>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/61d6d758-87d6-459c-9f60-0076da7d4ec3" alt="Correlation Heatmap" />
+</p>
+<p align="center">Figure 1: Correlation Heatmap showing relationships between various features in the MPG dataset.</p>
 
-<figure style="text-align:center">
-    <img src="https://github.com/user-attachments/assets/0d90a0cf-5b65-4da6-938a-cf725ceb6b39" alt="MPG vs. Displacement" style="display: block; margin: auto;" />
-    <figcaption>Figure 2: Scatterplot showing the relationship between MPG and engine displacement.</figcaption>
-</figure>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0d90a0cf-5b65-4da6-938a-cf725ceb6b39" alt="MPG vs. Displacement" />
+</p>
+<p align="center">Figure 2: Scatterplot showing the relationship between MPG and engine displacement.</p>
 
-<figure style="text-align:center">
-    <img src="https://github.com/user-attachments/assets/9ad6f81a-9ca0-4bd5-96db-da58ca0d4795" alt="MPG vs. Cylinder" style="display: block; margin: auto;" />
-    <figcaption>Figure 3: Scatterplot showing the relationship between MPG and the number of cylinders.</figcaption>
-</figure>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/9ad6f81a-9ca0-4bd5-96db-da58ca0d4795" alt="MPG vs. Cylinder" />
+</p>
+<p align="center">Figure 3: Scatterplot showing the relationship between MPG and the number of cylinders.</p>
 
-<figure style="text-align:center">
-    <img src="https://github.com/user-attachments/assets/ca4d0724-c614-4b97-b958-71dd3189a5d0" alt="OLS Regression Results" style="display: block; margin: auto;" />
-    <figcaption>Figure 4: OLS Regression results table showing the statistical relationship between various features and MPG.</figcaption>
-</figure>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ca4d0724-c614-4b97-b958-71dd3189a5d0" alt="OLS Regression Results" />
+</p>
+<p align="center">Figure 4: OLS Regression results table showing the statistical relationship between various features and MPG.</p>
 
 
 ## Analysis 2: NBA Player Statistics Clustering (2023/2024 Season)
