@@ -30,10 +30,6 @@ The first part of the project uses the `mpg` dataset to explore how different ca
 - Engine displacement and the number of cylinders are negatively correlated with fuel efficiency.
 - Cars with front-wheel drive generally have better fuel efficiency than all-wheel-drive cars.
 
-### Suggested Images:
-- **Figure 1**: Correlation heatmap showing the relationships between numeric variables (e.g., engine displacement, city MPG, highway MPG).
-- **Figure 2**: Scatterplot matrix (pairplot) for continuous variables such as displacement, city MPG, and highway MPG.
-
 ## Analysis 2: NBA Player Statistics Clustering (2023/2024 Season)
 
 The second part focuses on NBA player statistics for the 2023/2024 season. The analysis aims to classify players based on their performance metrics (e.g., points, rebounds, assists, etc.) using k-means clustering.
@@ -47,10 +43,6 @@ The second part focuses on NBA player statistics for the 2023/2024 season. The a
 ### Key Results:
 - Players tend to cluster based on playing time rather than position, indicating that playing time is a dominant factor in stat accumulation.
 - Attempts to cluster based on shooting success (e.g., field goal percentage) revealed meaningful groups after data normalization.
-
-### Suggested Images:
-- **Figure 3**: Boxplot showing the distribution of key stats (e.g., points, assists) across different clusters.
-- **Figure 4**: Scatterplot of players’ positions vs. clustered groups, showing the separation of clusters.
 
 ## How to Use
 
