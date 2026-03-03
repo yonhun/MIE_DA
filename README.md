@@ -65,22 +65,6 @@ The second part focuses on NBA player statistics for the 2023/2024 season. The a
 - Players tend to cluster based on playing time rather than position, indicating that playing time is a dominant factor in stat accumulation.
 - Attempts to cluster based on shooting success (e.g., field goal percentage) revealed meaningful groups after data normalization.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-
-2. Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the Jupyter notebooks:
-
-   Open the `.ipynb` files in your Jupyter environment to explore the analysis and results.
-
 ## Project Files
 
 | File Name                          | Description                                  |
